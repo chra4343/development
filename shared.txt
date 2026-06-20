@@ -1,0 +1,3 @@
+Line A: base shared file (development folder)
+Common line 2
+Unique line: development feature X
