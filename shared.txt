@@ -1,0 +1,3 @@
+Line A: base shared file (production folder)
+Common line 2
+Unique line: production hotfix Y
